@@ -35,11 +35,11 @@ Podcastr is an app for playing audio episodes of your favorite podcast.
 
 This project was developed using these techs:
 
-- React.js
-- Next.js
-- TypeScript
-- Sass
-- JSON Server (Fake API)
+- [React](https://reactjs.org)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Sass](https://sass-lang.com/documentation)
+- [JSON Server (Fake API)](https://github.com/typicode/json-server)
 
 <br>
 
@@ -121,7 +121,7 @@ The main features of the application are:
  - Shuffle mode;
  - Repeat mode;
  - Each episode has its own page;
- - SSG (Static Side Generation) and SSR (Server-side Rendering). 
+ - [SSG (Static Side Generation) and SSR (Server-side Rendering)](https://www.youtube.com/watch?v=u1kCtkVR7cE). 
  
 <br>
 
