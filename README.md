@@ -96,11 +96,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## 📌 How to Use
 ### 1 - When you access the project, you will see the home page. In this page you can:
-#### 1.1 - See all avaiable episodes;
-#### 1.2 - Play in a episode;
-#### 1.3 - Toggle shuffle episodes;
-#### 1.4 - Toggle repeat episode;
-#### 1.5 - Access an episode's information.
+#### 1.1 - See all avaiable episodes
+#### 1.2 - Play in a episode
+#### 1.3 - Toggle shuffle episodes
+#### 1.4 - Toggle repeat episode
+#### 1.5 - Access an episode's information
 
 ![Homepage image](.github/home.png)
 ![Homepage_episodes_image](.github/home1.png)
