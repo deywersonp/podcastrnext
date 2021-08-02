@@ -116,12 +116,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## 🕵 Features
 
 The main features of the application are:
- - Access an episode information;
- - Play an episode;
- - Shuffle mode;
- - Repeat mode;
- - Each episode has its own page;
- - [SSG (Static Side Generation) and SSR (Server-side Rendering)](https://www.youtube.com/watch?v=u1kCtkVR7cE). 
+ - Access an episode information
+ - Play an episode
+ - Shuffle mode
+ - Repeat mode
+ - Each episode has its own page
+ - [SSG (Static Side Generation) and SSR (Server-side Rendering)](https://www.youtube.com/watch?v=u1kCtkVR7cE)
  
 <br>
 
